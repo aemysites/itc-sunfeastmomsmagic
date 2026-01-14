@@ -1,0 +1,119 @@
+{
+  "originUrl": "https://sunfeastmomsmagic.com",
+  "aborted": false,
+  "lastCrawled": "https://sunfeastmomsmagic.com/",
+  "urls": [
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "6f2fd20721751de9cc1b0258e7529252a00c1bc5"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/contact-us.html",
+      "source": "SITEMAPS",
+      "targetPath": "/contact-us",
+      "id": "68fad77ec18facb7bc8df25bc83e5799f8746687"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/factory-address.html",
+      "source": "SITEMAPS",
+      "targetPath": "/factory-address",
+      "id": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+      "source": "SITEMAPS",
+      "targetPath": "/moms-corner",
+      "id": "e2b6ca58b84d6f71df12fc0e16380116920f8536"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "source": "SITEMAPS",
+      "targetPath": "/moms-magic-shines-wb",
+      "id": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "source": "SITEMAPS",
+      "targetPath": "/moms-magic-shines",
+      "id": "3f00949982025ca45646885c6d58c1c8c4434150"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "source": "SITEMAPS",
+      "targetPath": "/our-story",
+      "id": "204b365833c993e9dbbb7757377a309353fcdf75"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/privacy-policy",
+      "id": "1a16c5939080a5115f69257865463c6f443b1470"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/products.html",
+      "source": "SITEMAPS",
+      "targetPath": "/products",
+      "id": "aee6b1eb8613f7b9186243e0a70a63090615577e"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/sitemap.html",
+      "source": "SITEMAPS",
+      "targetPath": "/sitemap",
+      "id": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+      "source": "SITEMAPS",
+      "targetPath": "/terms-of-use",
+      "id": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "source": "SITEMAPS",
+      "targetPath": "/trythemagic",
+      "id": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "source": "SITEMAPS",
+      "targetPath": "/trythemagic/baked-with-love",
+      "id": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+      "source": "SITEMAPS",
+      "targetPath": "/trythemagic/hug-her-more",
+      "id": "423e597af4aa2b96f40ae2ca003537cb3be11f34"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+      "source": "SITEMAPS",
+      "targetPath": "/trythemagic/issdilke-aage-sabki-haar-hai",
+      "id": "dd07544230b08544725bf658cfad5507510c3f6c"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "source": "SITEMAPS",
+      "targetPath": "/trythemagic/no-more-missed-calls",
+      "id": "9c955996b1e90e6ded5f745797fda341faef3eb5"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none",
+  "error": null
+}
