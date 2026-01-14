@@ -1,0 +1,2024 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+          "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+          "uuid": "1a16c593-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/sitemap.html",
+          "urlHash": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c",
+          "uuid": "297cb1ce-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/factory-address.html",
+          "urlHash": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee",
+          "uuid": "2b9a2b66-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+          "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+          "uuid": "423e597a-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/contact-us.html",
+          "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+          "uuid": "68fad77e-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+          "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+          "uuid": "7ef3d20b-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+          "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+          "uuid": "d85a792f-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+          "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+          "uuid": "dd075442-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+          "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+          "uuid": "e2b6ca58-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]"
+        }
+      ],
+      "styles": {
+        "height": 96,
+        "background": "rgb(255, 166, 38) none no-repeat scroll 50% 50% / cover padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 2,
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+          "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+          "uuid": "1a16c593-05-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+          "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+          "uuid": "1a16c593-06-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-19-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-20-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/sitemap.html",
+          "urlHash": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c",
+          "uuid": "297cb1ce-04-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/sitemap.html",
+          "urlHash": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c",
+          "uuid": "297cb1ce-05-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/factory-address.html",
+          "urlHash": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee",
+          "uuid": "2b9a2b66-04-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/factory-address.html",
+          "urlHash": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee",
+          "uuid": "2b9a2b66-05-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-20-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-21-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+          "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+          "uuid": "423e597a-12-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+          "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+          "uuid": "423e597a-13-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/contact-us.html",
+          "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+          "uuid": "68fad77e-07-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/contact-us.html",
+          "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+          "uuid": "68fad77e-08-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-19-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-20-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+          "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+          "uuid": "7ef3d20b-05-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+          "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+          "uuid": "7ef3d20b-06-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-14-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-15-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-19-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-20-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-14-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-15-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-17-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-18-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+          "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+          "uuid": "d85a792f-14-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+          "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+          "uuid": "d85a792f-15-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+          "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+          "uuid": "dd075442-12-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+          "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+          "uuid": "dd075442-13-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+          "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+          "uuid": "e2b6ca58-06-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+          "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+          "uuid": "e2b6ca58-07-c6a781509981e9905e06f032014ac9ed78ea71aa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]"
+        }
+      ],
+      "styles": {}
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+          "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+          "uuid": "1a16c593-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/sitemap.html",
+          "urlHash": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c",
+          "uuid": "297cb1ce-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/factory-address.html",
+          "urlHash": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee",
+          "uuid": "2b9a2b66-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+          "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+          "uuid": "423e597a-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/contact-us.html",
+          "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+          "uuid": "68fad77e-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+          "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+          "uuid": "7ef3d20b-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+          "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+          "uuid": "d85a792f-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+          "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+          "uuid": "dd075442-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+          "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+          "uuid": "e2b6ca58-00-3dad6f17c5ac52449dfbc495c4fa129caa1ae780",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+          "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+          "uuid": "1a16c593-05-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-19-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/sitemap.html",
+          "urlHash": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c",
+          "uuid": "297cb1ce-04-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/factory-address.html",
+          "urlHash": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee",
+          "uuid": "2b9a2b66-04-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-20-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+          "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+          "uuid": "423e597a-12-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/contact-us.html",
+          "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+          "uuid": "68fad77e-07-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-19-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+          "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+          "uuid": "7ef3d20b-05-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-14-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-19-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-14-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-17-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+          "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+          "uuid": "d85a792f-14-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+          "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+          "uuid": "dd075442-12-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+          "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+          "uuid": "e2b6ca58-06-5d6e89af57d847dbbc440303594de7e126298fd7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-10-debbc3a3079e15b810040978f0f61d5e4023ee1d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-14-8bdcd7910ccb558b2575b5a676d059f08f759b38",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-07-a8ccdd04de3b5e036e1a5b8222b52a4d6486c057",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-15-0a9d63c8b80e5a6af8bd0dacde260ac05685ae9d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+          "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+          "uuid": "423e597a-05-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+          "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+          "uuid": "423e597a-09-a8ccdd04de3b5e036e1a5b8222b52a4d6486c057",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-14-3882bec5d7de06bcd6b9f9d12c69b7695d96db20",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-05-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-09-a8ccdd04de3b5e036e1a5b8222b52a4d6486c057",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-06-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-14-3882bec5d7de06bcd6b9f9d12c69b7695d96db20",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-07-a8ccdd04de3b5e036e1a5b8222b52a4d6486c057",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-11-d81feb915576ca5e6a209a1c3e7ac6c3132c3e13",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-08-debbc3a3079e15b810040978f0f61d5e4023ee1d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-12-564f5f1314e4bb4b8e39258ded09be2d7ede83fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+          "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+          "uuid": "d85a792f-05-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+          "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+          "uuid": "dd075442-05-d83eb1066d4005eddae767c4a3239a6304dac8ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-08-a8ccdd04de3b5e036e1a5b8222b52a4d6486c057",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-12-d81feb915576ca5e6a209a1c3e7ac6c3132c3e13",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-09-debbc3a3079e15b810040978f0f61d5e4023ee1d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-17-ada7fbb27bebc4a28e47085091f4189092168976",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[14]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+          "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+          "uuid": "423e597a-07-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-08-a8ccdd04de3b5e036e1a5b8222b52a4d6486c057",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-16-0a9d63c8b80e5a6af8bd0dacde260ac05685ae9d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-07-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-11-debbc3a3079e15b810040978f0f61d5e4023ee1d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-08-a8ccdd04de3b5e036e1a5b8222b52a4d6486c057",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-16-0a9d63c8b80e5a6af8bd0dacde260ac05685ae9d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-09-debbc3a3079e15b810040978f0f61d5e4023ee1d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-14-3882bec5d7de06bcd6b9f9d12c69b7695d96db20",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/section[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+          "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+          "uuid": "d85a792f-07-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div_6__section",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Mother-Daughter Duo The film opens with a mother and daughter in the midst of a banter revolving around her recent success in procuring admission to a prestigious college and the happiness around it."
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+          "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+          "uuid": "dd075442-07-dfa4076b7dd1e29e79cd2167590580569f9da043",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/section[1]"
+        }
+      ]
+    },
+    {
+      "name": "Video",
+      "cluster": 5,
+      "source": "Video",
+      "target": "Video (video5)",
+      "key": "video5",
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+          "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+          "uuid": "9c955996-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+          "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+          "uuid": "d85a792f-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div__div__div__div",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "#BakedWithLove"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+          "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+          "uuid": "dd075442-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-02-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-02-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-02-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/our-story.html",
+          "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+          "uuid": "204b3658-16-ac528c659ccacfbc1e4bb4346b02d7a37706b5be",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+          "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+          "uuid": "3f009499-13-ac528c659ccacfbc1e4bb4346b02d7a37706b5be",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+          "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+          "uuid": "423e597a-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/",
+          "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+          "uuid": "6f2fd207-12-2c40a7f8ed3208141977aa2797b8c492217d2bd1",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+          "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+          "uuid": "a056921d-12-2c40a7f8ed3208141977aa2797b8c492217d2bd1",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-10-7b0ed0ea235a9d80dc91e20bb4fcdb2a4e97860c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+          "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+          "uuid": "d85a792f-11-7b0ed0ea235a9d80dc91e20bb4fcdb2a4e97860c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+          "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+          "uuid": "dd075442-09-8e17db68db3c9dea4125cdeab6a148682079b82c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+        }
+      ],
+      "key": "unknown7"
+    },
+    {
+      "name": "Cards",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cards8)",
+      "key": "cards8",
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+          "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+          "uuid": "e2b6ca58-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/products.html",
+          "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+          "uuid": "aee6b1eb-02-03253585c145f140246e9a492bd20b8ac8053af4",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 10,
+      "source": "Embed",
+      "target": "Embed (embedVideo10)",
+      "key": "embedVideo10",
+      "instances": [
+        {
+          "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+          "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+          "uuid": "b0bc9157-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+      "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+      "uuid": "1a16c593-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+      "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+      "uuid": "1a16c593-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+      "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+      "uuid": "1a16c593-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+      "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+      "uuid": "1a16c593-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/privacy-policy.html",
+      "urlHash": "1a16c5939080a5115f69257865463c6f443b1470",
+      "uuid": "1a16c593-06-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-05-5aef5e7ca75d801b144fa117b85fa8043387d8a6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-09-8a2fad6283657b1afe8c8e75788ef188a14e3088",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-11-9b286fa4e17d948822879c1dc632400f5d91c492",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-13-20141edd6790a2c8c4e6d342f03fbb26fd74846a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-15-d6889204f0741eaeb611b09d0dd66b2b4a606bf3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-17-456c7155d934b69c4c54daa9badc78c9acbca29b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-18-31c7aff5fc25442494b6893cab2aea3ab2bdefd5",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/our-story.html",
+      "urlHash": "204b365833c993e9dbbb7757377a309353fcdf75",
+      "uuid": "204b3658-20-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/sitemap.html",
+      "urlHash": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c",
+      "uuid": "297cb1ce-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/sitemap.html",
+      "urlHash": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c",
+      "uuid": "297cb1ce-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/sitemap.html",
+      "urlHash": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c",
+      "uuid": "297cb1ce-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/sitemap.html",
+      "urlHash": "297cb1cedd41cc2e125fca15a28c3559afd5cb0c",
+      "uuid": "297cb1ce-05-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/factory-address.html",
+      "urlHash": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee",
+      "uuid": "2b9a2b66-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/factory-address.html",
+      "urlHash": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee",
+      "uuid": "2b9a2b66-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/factory-address.html",
+      "urlHash": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee",
+      "uuid": "2b9a2b66-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/factory-address.html",
+      "urlHash": "2b9a2b661f8e2ed179aa3dd629dd00fd3711b7ee",
+      "uuid": "2b9a2b66-05-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-05-5aef5e7ca75d801b144fa117b85fa8043387d8a6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-06-14b907f0900da6cbec1f69ebd286c2c9f4101bd1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-08-8a2fad6283657b1afe8c8e75788ef188a14e3088",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-10-9b286fa4e17d948822879c1dc632400f5d91c492",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-11-7b0ed0ea235a9d80dc91e20bb4fcdb2a4e97860c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-12-2c40a7f8ed3208141977aa2797b8c492217d2bd1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-14-456c7155d934b69c4c54daa9badc78c9acbca29b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-16-fa3ae507b637246c587c2e6b2d33269ed97e6d37",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-18-ace319be017f2502c42a00fb92cb70c062b452a3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[14]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-19-8e16cc5d68e1af0363863ea9624fe466fb55f7e2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[15]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines.html",
+      "urlHash": "3f00949982025ca45646885c6d58c1c8c4434150",
+      "uuid": "3f009499-21-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+      "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+      "uuid": "423e597a-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+      "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+      "uuid": "423e597a-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+      "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+      "uuid": "423e597a-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+      "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+      "uuid": "423e597a-06-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+      "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+      "uuid": "423e597a-08-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+      "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+      "uuid": "423e597a-10-8a2fad6283657b1afe8c8e75788ef188a14e3088",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+      "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+      "uuid": "423e597a-11-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/hug-her-more.html",
+      "urlHash": "423e597af4aa2b96f40ae2ca003537cb3be11f34",
+      "uuid": "423e597a-13-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/contact-us.html",
+      "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+      "uuid": "68fad77e-01-2a37b5a631b57b12a6c995e547a4447c0199285c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/h1[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/contact-us.html",
+      "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+      "uuid": "68fad77e-02-56165065fac9dc1680da6eac7b5cfdbc5b43b576",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/contact-us.html",
+      "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+      "uuid": "68fad77e-03-f98d0e707bc49ea10d55087ba010d7f9cebb400f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/form[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/contact-us.html",
+      "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+      "uuid": "68fad77e-04-7b253c41986639f0a62577f52e2da1494253c12d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/contact-us.html",
+      "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+      "uuid": "68fad77e-05-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/contact-us.html",
+      "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+      "uuid": "68fad77e-06-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/contact-us.html",
+      "urlHash": "68fad77ec18facb7bc8df25bc83e5799f8746687",
+      "uuid": "68fad77e-08-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-05-5aef5e7ca75d801b144fa117b85fa8043387d8a6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-09-8a2fad6283657b1afe8c8e75788ef188a14e3088",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-10-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-11-7b0ed0ea235a9d80dc91e20bb4fcdb2a4e97860c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-13-ac528c659ccacfbc1e4bb4346b02d7a37706b5be",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-15-273cf438d090e8b7424ff62a5ff62102b24f6d6d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-17-fa3ae507b637246c587c2e6b2d33269ed97e6d37",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-18-7898ffde0fa3807ba377b4eee8243d7d96e0487f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[14]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/",
+      "urlHash": "6f2fd20721751de9cc1b0258e7529252a00c1bc5",
+      "uuid": "6f2fd207-20-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+      "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+      "uuid": "7ef3d20b-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+      "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+      "uuid": "7ef3d20b-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+      "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+      "uuid": "7ef3d20b-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+      "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+      "uuid": "7ef3d20b-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/terms-of-use.html",
+      "urlHash": "7ef3d20b0c0e201fe73c714efbc8896d1f8d7ee2",
+      "uuid": "7ef3d20b-06-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+      "uuid": "9c955996-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+      "uuid": "9c955996-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+      "uuid": "9c955996-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+      "uuid": "9c955996-06-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+      "uuid": "9c955996-08-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+      "uuid": "9c955996-10-8a2fad6283657b1afe8c8e75788ef188a14e3088",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+      "uuid": "9c955996-12-9b286fa4e17d948822879c1dc632400f5d91c492",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+      "uuid": "9c955996-13-7b0ed0ea235a9d80dc91e20bb4fcdb2a4e97860c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/no-more-missed-calls.html",
+      "urlHash": "9c955996b1e90e6ded5f745797fda341faef3eb5",
+      "uuid": "9c955996-15-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-05-5aef5e7ca75d801b144fa117b85fa8043387d8a6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-07-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-09-8a2fad6283657b1afe8c8e75788ef188a14e3088",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-10-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-11-7b0ed0ea235a9d80dc91e20bb4fcdb2a4e97860c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-13-ac528c659ccacfbc1e4bb4346b02d7a37706b5be",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-15-273cf438d090e8b7424ff62a5ff62102b24f6d6d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-17-fa3ae507b637246c587c2e6b2d33269ed97e6d37",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-18-7898ffde0fa3807ba377b4eee8243d7d96e0487f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[14]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic.html",
+      "urlHash": "a056921dc8b70e5cd7e28848b39cc4f8d06f69d9",
+      "uuid": "a056921d-20-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/products.html",
+      "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+      "uuid": "aee6b1eb-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/products.html",
+      "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+      "uuid": "aee6b1eb-05-5aef5e7ca75d801b144fa117b85fa8043387d8a6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/products.html",
+      "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+      "uuid": "aee6b1eb-06-14b907f0900da6cbec1f69ebd286c2c9f4101bd1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/products.html",
+      "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+      "uuid": "aee6b1eb-08-8a2fad6283657b1afe8c8e75788ef188a14e3088",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/products.html",
+      "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+      "uuid": "aee6b1eb-10-9b286fa4e17d948822879c1dc632400f5d91c492",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/products.html",
+      "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+      "uuid": "aee6b1eb-12-20141edd6790a2c8c4e6d342f03fbb26fd74846a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/products.html",
+      "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+      "uuid": "aee6b1eb-13-2c40a7f8ed3208141977aa2797b8c492217d2bd1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/products.html",
+      "urlHash": "aee6b1eb8613f7b9186243e0a70a63090615577e",
+      "uuid": "aee6b1eb-15-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-05-5aef5e7ca75d801b144fa117b85fa8043387d8a6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-06-14b907f0900da6cbec1f69ebd286c2c9f4101bd1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-07-8e17db68db3c9dea4125cdeab6a148682079b82c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-09-9b286fa4e17d948822879c1dc632400f5d91c492",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-11-2c40a7f8ed3208141977aa2797b8c492217d2bd1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-13-35ffb12e6f1dc719672c2f7a5378a4f13e1d4625",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-15-273cf438d090e8b7424ff62a5ff62102b24f6d6d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[12]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-16-31c7aff5fc25442494b6893cab2aea3ab2bdefd5",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[13]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-magic-shines-wb.html",
+      "urlHash": "b0bc91573a5a122ade062ec02db3cd2bb36ad9ee",
+      "uuid": "b0bc9157-18-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-06-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-08-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-09-8e17db68db3c9dea4125cdeab6a148682079b82c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-10-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-12-2c40a7f8ed3208141977aa2797b8c492217d2bd1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-13-ac528c659ccacfbc1e4bb4346b02d7a37706b5be",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[11]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "urlHash": "d85a792fc86e3b1beeeb6b0c31cc85b1109151ba",
+      "uuid": "d85a792f-15-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+      "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+      "uuid": "dd075442-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+      "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+      "uuid": "dd075442-03-5442531e70fa62e35b08aa4d9a7ae27325d74a15",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+      "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+      "uuid": "dd075442-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+      "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+      "uuid": "dd075442-06-49d0e0f9d015dfd3060b636ca174e8732b6a80b0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+      "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+      "uuid": "dd075442-08-8eb2ed9b5ce91a549b6fac384d161e81380fb9e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+      "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+      "uuid": "dd075442-10-0aba88c85de1b4564b0d8db42fc946b6489164ea",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+      "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+      "uuid": "dd075442-11-7b0ed0ea235a9d80dc91e20bb4fcdb2a4e97860c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/issdilke-aage-sabki-haar-hai.html",
+      "urlHash": "dd07544230b08544725bf658cfad5507510c3f6c",
+      "uuid": "dd075442-13-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+      "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+      "uuid": "e2b6ca58-01-c1ceae65c0f00fe0f1e24d0cc17259f975bb0657",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+      "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+      "uuid": "e2b6ca58-02-03253585c145f140246e9a492bd20b8ac8053af4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+      "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+      "uuid": "e2b6ca58-04-3078f7d60c208524bce7cf90d69eca55cc816fcf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+      "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+      "uuid": "e2b6ca58-05-5aef5e7ca75d801b144fa117b85fa8043387d8a6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/moms-corner.html",
+      "urlHash": "e2b6ca58b84d6f71df12fc0e16380116920f8536",
+      "uuid": "e2b6ca58-07-c6a781509981e9905e06f032014ac9ed78ea71aa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/footer[1]/div[1]/div[1]/div[1]/section[1]/div[1]/section[2]",
+      "section": "section-2"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://sunfeastmomsmagic.com/contact-us.html",
+      "differences": [
+        {
+          "change_type": "deletion",
+          "text": "Form Submitted Successfully Form Submission unsuccessful "
+        },
+        {
+          "change_type": "equal",
+          "text": "Contact Us We\u2019d love your experience with Mom's Magic Write to us or call us and we\u2019ll do our best to make it even more \u2018Fun\u2019tastic! First Name"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * ! "
+        },
+        {
+          "change_type": "insertion",
+          "text": "* Enter your first name ! "
+        },
+        {
+          "change_type": "equal",
+          "text": "Last Name"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * ! +"
+        },
+        {
+          "change_type": "insertion",
+          "text": "* Enter your last name ! +"
+        },
+        {
+          "change_type": "equal",
+          "text": "91 - Contact Number"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * ! "
+        },
+        {
+          "change_type": "insertion",
+          "text": "* Please enter your contact number ! "
+        },
+        {
+          "change_type": "equal",
+          "text": "Email ID"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * ! "
+        },
+        {
+          "change_type": "insertion",
+          "text": "* Enter you email ID ! "
+        },
+        {
+          "change_type": "equal",
+          "text": "Subject"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * ! "
+        },
+        {
+          "change_type": "insertion",
+          "text": "* Enter subject here ! "
+        },
+        {
+          "change_type": "equal",
+          "text": "Talk to us"
+        },
+        {
+          "change_type": "deletion",
+          "text": " * "
+        },
+        {
+          "change_type": "insertion",
+          "text": "* "
+        },
+        {
+          "change_type": "equal",
+          "text": "0 of 500 ! Please complete the reCAPTCHA verification. Submit For any other feedback/complaint, please write to ITC CARES AT P.O. BOX NO.592, BANGALORE-560005 OR Email us at itccares@itc.in OR Call us on any working day between 9.30 AM and 5.30 PM on our Toll free no. 1800425444444 . Follow us on"
+        }
+      ],
+      "similarity_score": 0.8354316926217257
+    },
+    {
+      "url": "https://sunfeastmomsmagic.com/trythemagic/baked-with-love.html",
+      "differences": [
+        {
+          "change_type": "deletion",
+          "text": "#BakedWithLove "
+        },
+        {
+          "change_type": "equal",
+          "text": "Cookies for tea-time baked with love "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Mom's Magic: Fierce, Protective & Soft We\u2019ve always portrayed the relationship that mothers share with their children. Virtues they\u2019d like"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Failed"
+        },
+        {
+          "change_type": "equal",
+          "text": " to "
+        },
+        {
+          "change_type": "deletion",
+          "text": "pass"
+        },
+        {
+          "change_type": "insertion",
+          "text": "parse"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "on"
+        },
+        {
+          "change_type": "insertion",
+          "text": "content"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "to"
+        },
+        {
+          "change_type": "insertion",
+          "text": "into"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "their"
+        },
+        {
+          "change_type": "insertion",
+          "text": "block - please"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "children. Characteristics that make"
+        },
+        {
+          "change_type": "insertion",
+          "text": "check"
+        },
+        {
+          "change_type": "equal",
+          "text": " the "
+        },
+        {
+          "change_type": "deletion",
+          "text": "child"
+        },
+        {
+          "change_type": "insertion",
+          "text": "parser"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "stronger"
+        },
+        {
+          "change_type": "insertion",
+          "text": "columns3"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "come from their own moms. Mother-Daughter Duo The film opens with a mother and daughter in the midst of a banter revolving around her recent success in procuring admission to a prestigious college and the happiness around it. "
+        },
+        {
+          "change_type": "equal",
+          "text": "The film captures the everyday nuances that the mother and daughter shared, and when the daughter is finally off to college, there\u2019s a sense of emotion that comes out. This is metaphorically represented by the cookie. And it\u2019s always baked with love. Follow us on"
+        }
+      ],
+      "similarity_score": 0.7430932856874365
+    }
+  ]
+}
