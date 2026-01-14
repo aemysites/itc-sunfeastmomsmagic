@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -40,11 +41,10 @@
   margin: 0;
 }
 
-/* Outermost container for the four columns: branding + 3 nav cols */
 .columns.columns2 .columns {
   display: flex;
   flex-direction: row;
-  align-items: center; /* vertical centering */
+  align-items: center;
   justify-content: flex-start;
   padding: 0 48px;
   min-height: 120px;
@@ -53,7 +53,6 @@
   gap: 0;
 }
 
-/* Branding column (left) */
 .columns.columns2 .columns .columns-img-col {
   display: flex;
   flex-direction: column;
@@ -101,7 +100,6 @@
   vertical-align: middle;
 }
 
-/* Navigation columns */
 .columns.columns2 .columns div {
   flex: 1;
   display: flex;
@@ -120,7 +118,6 @@
   margin-left: 0;
 }
 
-/* Nav List/Link styles */
 .columns.columns2 ul {
   list-style: none;
   margin: 0;
@@ -152,7 +149,6 @@
   text-decoration: underline;
 }
 
-/* Responsive adjustments for stacking on mobile */
 @media (width <= 900px) {
   .columns.columns2 .columns {
     flex-direction: column;
@@ -186,5 +182,78 @@
     padding-left: 0;
     padding-top: 20px;
     margin-top: 20px;
+  }
+}
+
+
+.columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-radius: 24px;
+  overflow: hidden;
+  min-height: 340px;
+  background: transparent;
+  box-shadow: 0 2px 12px rgb(80 80 80 / 8%);
+}
+
+.columns div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px 32px;
+  min-width: 0;
+  min-height: 220px;
+  box-sizing: border-box;
+}
+
+.columns div:first-of-type {
+  background: #FF7101;
+  color: #fff;
+  align-items: center;
+}
+
+.columns div:not(:first-of-type) {
+  background: #FFF7DF;
+  color: #232323;
+  align-items: flex-start;
+}
+
+.columns div:not(:first-of-type) h1,
+.columns div:not(:first-of-type) h2,
+.columns div:not(:first-of-type) h3,
+.columns div:not(:first-of-type) h4,
+.columns div:not(:first-of-type) h5,
+.columns div:not(:first-of-type) h6 {
+  color: #232323;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0.4em;
+}
+
+.columns div:not(:first-of-type) p {
+  color: #232323;
+  margin-top: 0;
+}
+
+@media (width <= 800px) {
+  .columns {
+    grid-template-columns: 1fr;
+    min-height: unset;
+  }
+
+  .columns div {
+    min-height: 120px;
+    padding: 32px 16px;
+    align-items: flex-start;
+  }
+
+  .columns div:first-of-type {
+    background: #FF7101;
+    color: #fff;
+  }
+
+  .columns div:not(:first-of-type) {
+    background: #FFF7DF;
+    color: #232323;
   }
 }
